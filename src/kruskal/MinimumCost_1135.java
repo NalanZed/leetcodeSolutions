@@ -62,7 +62,4 @@ public class MinimumCost_1135 {
         return ans;
     }
 
-    public static void main(String[] args) {
-
-    }
 }
